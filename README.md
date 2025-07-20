@@ -90,11 +90,14 @@ javac Main.java
 java Main
   </code></pre>
 
-  <h2>📸 Screenshots / Demo:</h2>
-  <p>Below is a preview of the game in action:</p>
-  <img src="https://github.com/msaadraj/Word-Mastermind-Java-Console-Game/blob/main/screenshot.PNG" alt="Game Screenshot" width="600" />
+<h2>📸 Screenshots / Demo:</h2>
+<p>Below is a preview of the Password Manager in action:</p>
 
-  
+<h3>🔐 Password Generation:</h3>
+<img src="https://github.com/msaadraj/Password_Manager/blob/main/Password%20Manager%20Screenshots/1.PNG" alt="Password Generation Screenshot" width="600" />
+
+<h3>🧪 Password Strength Checking:</h3>
+<img src="https://github.com/msaadraj/Password_Manager/blob/main/Password%20Manager%20Screenshots/2.PNG" alt="Password Checker Screenshot" width="600" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
