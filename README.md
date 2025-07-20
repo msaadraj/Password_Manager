@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/muhammad saad" target="blank"><img src="https://img.shields.io/twitter/follow/muhammad saad?logo=twitter&style=for-the-badge" alt="muhammad saad" /></a> </p>
 
-- 🔭 I’m currently working on **Gexton Education**
+- 🔭 I’m currently working on **Gextn Education**
 
 - 🌱 I’m currently learning **DSA, Networking & Digital Security**
 
