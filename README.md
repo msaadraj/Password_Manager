@@ -146,4 +146,6 @@ java Main
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msaadraj&show_icons=true&locale=en" alt="msaadraj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msaadraj&" alt="msaadraj" /></p>
+<h2>🔥 GitHub Streaks</h2>
+<p><img align="center" src="https://streak-stats.demolab.com?user=msaadraj" alt="msaadraj" /></p>
+
